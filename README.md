@@ -24,17 +24,11 @@ The Library Management System is a Java-based application designed to efficientl
 
 ## How to Use
 
-1. **Clone the Repository:**
-   - Clone the repository to your local machine using the following command:
-     ```bash
-     git clone <repository_url>
-     ```
-
-2. **Compile and Run:**
+1. **Compile and Run:**
    - Navigate to the project directory and compile the `Library.java` file using your preferred Java IDE or command line.
    - Run the `Library.java` file to start the Library Management System.
 
-3. **Commands:**
+2. **Commands:**
    - **ADD:** Add a new book to the library.
    - **REMOVE:** Remove a book by title.
    - **SEARCH:** Search for a book by title.
@@ -46,9 +40,6 @@ The Library Management System is a Java-based application designed to efficientl
 
 ## Dependencies
 - Java Development Kit (JDK) 8 or higher.
-
-## Version Control
-This project uses Git for version control. Ensure that each commit is descriptive and accurately reflects the changes made in the project.
 
 ## Authors
 [Xiangshuai Liu]
